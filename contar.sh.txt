@@ -1,0 +1,5 @@
+$ wc loremipsum-1.txt
+$ wc loremipsum-2.txt
+$ wc loremipsum-3.txt
+$ wc loremipsum-4.txt
+$ wc loremipsum-5.txt
